@@ -1,0 +1,26 @@
+{
+  "name": "testing-project-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaspreet-singh-sahota/testing-project-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaspreet-singh-sahota/testing-project-js/issues"
+  },
+  "homepage": "https://github.com/jaspreet-singh-sahota/testing-project-js#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "jest": "^26.1.0",
+    "watch": "^1.0.2"
+  }
+}
